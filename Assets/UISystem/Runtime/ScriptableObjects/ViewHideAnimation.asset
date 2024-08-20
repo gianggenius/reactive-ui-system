@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f69feae3b1b345f7b4abb010eff389a9, type: 3}
+  m_Name: ViewHideAnimation
+  m_EditorClassIdentifier: 
+  _viewAnimations:
+  - {fileID: 11400000, guid: fae2706c92a2241f58a8a34241fc2692, type: 2}
+  - {fileID: 11400000, guid: 227536a856bee4749b9029dd33f3cd5c, type: 2}
